@@ -32,6 +32,7 @@
 
 
 <h3 align="left">Distribution site</h3>
+
 netlify(https://x-cover.netlify.app/)
     
 <div align="right">
