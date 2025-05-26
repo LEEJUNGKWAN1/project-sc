@@ -7,15 +7,15 @@
 
 <h3 align="left">Developers</h3>
 <div align="left">
-  <div>김민기: MainPage 🔗
+  <div>김민기: Home 🔗
     <a href="https://github.com/minki1220" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
-  <div>이가영: SearchPage 🔗
+  <div>이가영: Explore 🔗
     <a href="https://github.com/G0zero" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
-  <div>이정관: ProfilePage 🔗
+  <div>이정관: Profile 🔗
     <a href="https://github.com/LEEJUNGKWAN1" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
