@@ -7,15 +7,15 @@
 
 <h3 align="left">Developers</h3>
 <div align="left">
-  <div>김민기: Home 🔗
+  <div>김민기: Part - Home 🔗
     <a href="https://github.com/minki1220" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
-  <div>이가영: Explore 🔗
+  <div>이가영: Part - Explore 🔗
     <a href="https://github.com/G0zero" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
-  <div>이정관: Profile 🔗
+  <div>이정관: Part - Profile 🔗
     <a href="https://github.com/LEEJUNGKWAN1" target="_blank">
       <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   </div>
@@ -29,9 +29,13 @@
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
 </div>
+
+
+<h3 align="left">Distribution site</h3>
+<div>netlify(https://x-cover.netlify.app/)</div>
     
 <div align="right">
-  🔗
+  Learn more 🔗
   <a href="https://github.com/jobcodebreak/x-cover" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
