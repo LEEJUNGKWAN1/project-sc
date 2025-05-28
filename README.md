@@ -37,7 +37,7 @@ netlify(https://x-cover.netlify.app/)
     
 <div align="right">
   Learn more 🔗
-  <a href="https://github.com/jobcodebreak/x-cover" target="_blank">
+  <a href="https://github.com/LEEJUNGKWAN1/x-cover" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 </div>
 
