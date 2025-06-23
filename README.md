@@ -1,8 +1,7 @@
-# 🗡️ Fantasy Shop
 
-<div align="center">
-<img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true" alt="판타지샵" />
-</div>
+|<h1 align="center">Fantasy Shop</h1>|
+|-|
+|![판타지샵](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true)|
 
 ## 🧙 프로젝트 개요
 ![project_period](https://img.shields.io/badge/Project%20Period-2025--06--09%20~%202025--06--23-6366F1)<br>
@@ -131,6 +130,7 @@
 - [Architecture Diagram](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/architecture_diagram.png)
 - [Use Case](https://editor.plantuml.com/uml/VPB1Rjf048Rl-nIZdDf39AynZgaY5AdFq0T0uBP812GmTmfKfKgbqZQeKGB8758fbIkvgQluq2VQ7Rz3DmgBZGVxP7c-__zdHZjd0w_HzuRd7TPnNtlWzQ3VVlFMWrQxxpQzTg_BMAFfzVg0um2lxt0zt_wBQ2H_18__R3Xmcus12qV9zIUycOC8HxX-VmID0RnwQV2KoyrIFCIuYZKpKuQJTydN6SYVTtAp0lad4d6ePHKYKn-SnZcPbP6jRsLuAVu6ycA6t-UWqo-o-kfXVIxLBb3Xx0hznLR5CoEA-n3zPRAuoeGuP0DnFyB9Hv3XPr0nqWzqaf5AvJY2v78gDofjgcHVnCC_BUFvXe2hIFgt-zFpauAqtFWMUQJ556yc6bV96oUJMV8Xqjmkd_dPxbYUQuTJ_l8773NYKFChzVucfa5bur_eBpNdjF6ttwgnvYPZkrE7u-FwqmcJaabB5LgoIObpndQxwPf3IpN67YDra0KluFIqtMrsXYstNjzZrMB63Sgi4f-jVPLYPZWvfY3dsdX2Z2cpIbYrXDcqeU7GXkaqjIqqwVefumUCZePc7fwvtTRmlFCV)
 - [ERD](https://www.erdcloud.com/team/dfXYTu9t8z52mcGcr)
+
 ___
 
 |<h1 align="center">X (Clone ver.)</h1>|
@@ -141,20 +141,46 @@ ___
 <div>X (formerly Twitter) is a social media platform where users share short messages, called posts, to express thoughts, news, or updates.</div>
 
 <h3 align="left">Developers</h3>
-<div align="left">
-  <div>김민기: Part - Home 🔗
-    <a href="https://github.com/minki1220" target="_blank">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  </div>
-  <div>이가영: Part - Explore 🔗
-    <a href="https://github.com/G0zero" target="_blank">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  </div>
-  <div>이정관: Part - Profile 🔗
-    <a href="https://github.com/LEEJUNGKWAN1" target="_blank">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  </div>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th style="white-space: nowrap;">프로필&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th>이름 - 작업 내역</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="2" style="vertical-align: top; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/bf5a487e-bcde-4aa9-a85f-939f86e93eb3" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
+      <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FE)</td>
+    </tr>
+     <tr>
+      <td colspan="2">내프로필 페이지</td>
+    </tr>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
+        <img src="https://github.com/user-attachments/assets/eef5b360-acbd-49ca-8ca0-79cae7699b7e" alt="김민기" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/minki1220">김민기</a> (FE)</td>
+    </tr>
+      <tr>
+        <td colspan="2">홈 페이지</td>
+      </tr>
+    </tr>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
+        <img src="https://github.com/user-attachments/assets/f98210a9-bb1e-45b5-97df-b56b9ef72b60" alt="이가영" style="min-width: 50px; width:60px; height: 60px;" />
+      </td>
+      <td><a href="https://github.com/G0zero">이가영</a> (FE)</td>
+    </tr>
+     <tr>
+       <td colspan="2">검색 페이지</td>
+     </tr>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="left">Used Language</h3>
 <div align="left">
