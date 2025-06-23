@@ -151,8 +151,11 @@ ___
 |-|
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
 
-<h3 align="left">프로젝트 개요</h3>
-<div>이 프로젝트는 다른 개발자와의 협업, UI/UX 구성 능력, 상태/컴포넌트 설계력, 프론트엔드 사고방식을 기르기 위한 X클론입니다.</div>
+### 👨‍💻 프로젝트 개요
+![project_period](https://img.shields.io/badge/Project%20Period-2025--05--26%20~%202025--06--02-6366F1)<br>
+이 프로젝트는 다른 개발자와의 협업, UI/UX 구성 능력, 상태/컴포넌트 설계력, 프론트엔드 사고방식을 기르기 위한 X클론입니다.
+
+React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 상태 관리하고, 캐러셀·모달 등 주요 UI 컴포넌트를 직접 구현하며 실제 서비스 수준의 사용자 흐름을 재현했습니다.
 
 <h3 align="left">💁🏻 팀원</h3>
 <table>
@@ -196,7 +199,7 @@ ___
   </tbody>
 </table>
 
-<h3 align="left">⚙️ 기술 스택</h3>
+<h3 align="left">📦 기술 스택</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
