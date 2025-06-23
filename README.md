@@ -1,9 +1,8 @@
-
 |<h1 align="center">Fantasy Shop</h1>|
 |-|
 |![판타지샵](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true)|
 
-## 🧙 프로젝트 개요
+### 🧙 프로젝트 개요
 ![project_period](https://img.shields.io/badge/Project%20Period-2025--06--09%20~%202025--06--23-6366F1)<br>
 
 이 프로젝트는 판타지 세계를 배경으로 한 **가상의 온라인 무기 상점**입니다.
@@ -12,7 +11,7 @@
 
 관리자는 상품 정보를 등록·수정·삭제할 수 있으며, 사용자 구매 흐름과 프로필 관리 기능도 포함되어 있습니다.
 
-## 📦 배포
+### 📦 배포
 
 > [yonghun16.duckdns.org/fantasyshop](https://yonghun16.duckdns.org/fantasyshop)
 
@@ -21,7 +20,7 @@
 - ID: guest@guest.com
 - PW: guest12
 
-## 💁🏻 팀원
+### 💁🏻 팀원
 <table>
   <thead>
     <tr>
@@ -106,21 +105,36 @@
 - **빌드** : <!-- Gradle --><a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /></a>
 - **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a> 
 
-
 ## 🧩 기능 소개
+<h3 align="center">🔑 로그인 및 회원가입</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/login.gif?raw=true" alt="로그인_회원가입" />
+</p>
 
-### 🔑 로그인 및 회원가입
-![로그인_회원가입](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/login.gif?raw=true)
-### 🛍️ 메인 상품 보기 & 검색 & 정렬
-![검색_정렬](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/filter.gif?raw=true)
-### 👀 상품 상세 보기
-![상품_상세보기](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/detail.gif?raw=true)
-### 🛒 장바구니 & 결제
-![장바구니](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/cart.gif?raw=true)
-### ✏️ 상품 등록 & 수정 & 삭제 
-![상품](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/adddel.gif?raw=true)
-### 📲 반응형(PWA)
-![반응형](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true)
+<h3 align="center">🛍️ 메인 상품 보기 & 검색 & 정렬</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/filter.gif?raw=true" alt="검색_정렬" />
+</p>
+
+<h3 align="center">👀 상품 상세 보기</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/detail.gif?raw=true" alt="상품_상세보기" />
+</p>
+
+<h3 align="center">🛒 장바구니 & 결제</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/cart.gif?raw=true" alt="장바구니" />
+</p>
+
+<h3 align="center">✏️ 상품 등록 & 수정 & 삭제</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/adddel.gif?raw=true" alt="상품" />
+</p>
+
+<h3 align="center">📲 반응형(PWA)</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true" alt="반응형" />
+</p>
 
 ## 🧩 성능 테스트
 ![성능](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/lighthouse.png?raw=true)
@@ -137,10 +151,10 @@ ___
 |-|
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
 
-<h3 align="left">Introduction</h3>
+<h3 align="left">프로젝트 개요</h3>
 <div>X (formerly Twitter) is a social media platform where users share short messages, called posts, to express thoughts, news, or updates.</div>
 
-<h3 align="left">Developers</h3>
+<h3 align="left">💁🏻 팀원</h3>
 <table>
   <thead>
     <tr>
@@ -182,7 +196,7 @@ ___
   </tbody>
 </table>
 
-<h3 align="left">Used Language</h3>
+<h3 align="left">⚙️ 기술 스택</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
@@ -191,15 +205,11 @@ ___
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
 </div>
 
+<h3 align="left">📦 배포</h3>
+https://x-cover.netlify.app/
 
-<h3 align="left">Distribution site</h3>
+### 🔗 바로 가기
+- [Github](https://github.com/LEEJUNGKWAN1/x-cover)
 
-netlify(https://x-cover.netlify.app/)
-    
-<div align="right">
-  Learn more 🔗
-  <a href="https://github.com/LEEJUNGKWAN1/x-cover" target="_blank">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-</div>
 
 ___
