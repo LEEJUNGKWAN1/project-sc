@@ -152,7 +152,7 @@ ___
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
 
 <h3 align="left">프로젝트 개요</h3>
-<div>X (formerly Twitter) is a social media platform where users share short messages, called posts, to express thoughts, news, or updates.</div>
+<div>이 프로젝트는 다른 개발자와의 협업, UI/UX 구성 능력, 상태/컴포넌트 설계력, 프론트엔드 사고방식을 기르기 위한 X클론입니다.</div>
 
 <h3 align="left">💁🏻 팀원</h3>
 <table>
