@@ -150,6 +150,7 @@
 - [Architecture Diagram](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/architecture_diagram.png)
 - [Use Case](https://editor.plantuml.com/uml/VPB1Rjf048Rl-nIZdDf39AynZgaY5AdFq0T0uBP812GmTmfKfKgbqZQeKGB8758fbIkvgQluq2VQ7Rz3DmgBZGVxP7c-__zdHZjd0w_HzuRd7TPnNtlWzQ3VVlFMWrQxxpQzTg_BMAFfzVg0um2lxt0zt_wBQ2H_18__R3Xmcus12qV9zIUycOC8HxX-VmID0RnwQV2KoyrIFCIuYZKpKuQJTydN6SYVTtAp0lad4d6ePHKYKn-SnZcPbP6jRsLuAVu6ycA6t-UWqo-o-kfXVIxLBb3Xx0hznLR5CoEA-n3zPRAuoeGuP0DnFyB9Hv3XPr0nqWzqaf5AvJY2v78gDofjgcHVnCC_BUFvXe2hIFgt-zFpauAqtFWMUQJ556yc6bV96oUJMV8Xqjmkd_dPxbYUQuTJ_l8773NYKFChzVucfa5bur_eBpNdjF6ttwgnvYPZkrE7u-FwqmcJaabB5LgoIObpndQxwPf3IpN67YDra0KluFIqtMrsXYstNjzZrMB63Sgi4f-jVPLYPZWvfY3dsdX2Z2cpIbYrXDcqeU7GXkaqjIqqwVefumUCZePc7fwvtTRmlFCV)
 - [ERD](https://www.erdcloud.com/team/dfXYTu9t8z52mcGcr)
+- [Github](https://github.com/fantasy-shop)
 
 ___
 
