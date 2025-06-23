@@ -2,16 +2,17 @@
 |-|
 |![판타지샵](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true)|
 
-### 🧙 프로젝트 개요
-![project_period](https://img.shields.io/badge/Project%20Period-2025--06--09%20~%202025--06--23-6366F1)<br>
+## 🧙 프로젝트 개요
+![project_period](https://img.shields.io/badge/Project%20Period-2025--06--09%20~%202025--06--23-6366F1)
 
 이 프로젝트는 판타지 세계를 배경으로 한 **가상의 온라인 무기 상점**입니다.
 
 사용자는 마법 지팡이, 전설의 검, 방패, 활 등 다양한 판타지 아이템을 탐색하고 장바구니에 담아 구매할 수 있습니다.
 
 관리자는 상품 정보를 등록·수정·삭제할 수 있으며, 사용자 구매 흐름과 프로필 관리 기능도 포함되어 있습니다.
+<br></br>
 
-### 📦 배포
+## 📦 배포
 
 > [yonghun16.duckdns.org/fantasyshop](https://yonghun16.duckdns.org/fantasyshop)
 
@@ -19,8 +20,9 @@
 
 - ID: guest@guest.com
 - PW: guest12
+<br></br>
 
-### 💁🏻 팀원
+## 💁🏻 팀원
 <table>
   <thead>
     <tr>
@@ -88,6 +90,7 @@
     </tr>
   </tbody>
 </table>
+<br></br>
 
 ## ⚙️ 기술 스택
 ### 🎨 Frontend
@@ -103,7 +106,8 @@
 - **프레임워크** : <!-- Spring Boot --><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /></a> 
 - **데이터베이스** : <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a> <img src="https://img.shields.io/badge/Query_DSL-79E1F4?style=flat&logo=Query_DSL&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat&logo=Spring_SPA&logoColor=white" /> <!-- Redis --><a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a>
 - **빌드** : <!-- Gradle --><a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /></a>
-- **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a> 
+- **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+<br></br>
 
 ## 🧩 기능 소개
 <h3 align="center">🔑 로그인 및 회원가입</h3>
@@ -135,9 +139,11 @@
 <p align="center">
   <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true" alt="반응형" />
 </p>
+<br></br>
 
 ## 🧩 성능 테스트
 ![성능](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/lighthouse.png?raw=true)
+<br></br>
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/Fantay-Shop-2063cf3a67fb8019bfd3c6c420803544?pvs=18&qid=&origin=)
@@ -151,13 +157,14 @@ ___
 |-|
 |![X](https://github.com/user-attachments/assets/e528adae-d29f-4497-8c59-b564d4115710)|
 
-### 👨‍💻 프로젝트 개요
+## 👨‍💻 프로젝트 개요
 ![project_period](https://img.shields.io/badge/Project%20Period-2025--05--26%20~%202025--06--02-6366F1)<br>
 이 프로젝트는 다른 개발자와의 협업, UI/UX 구성 능력, 상태/컴포넌트 설계력, 프론트엔드 사고방식을 기르기 위한 X클론입니다.
 
 React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 상태 관리하고, 캐러셀·모달 등 주요 UI 컴포넌트를 직접 구현하며 실제 서비스 수준의 사용자 흐름을 재현했습니다.
+<br></br>
 
-<h3 align="left">💁🏻 팀원</h3>
+<h2 align="left">💁🏻 팀원</h2>
 <table>
   <thead>
     <tr>
@@ -198,8 +205,9 @@ React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 �
     </tr>
   </tbody>
 </table>
+<br></br>
 
-<h3 align="left">📦 기술 스택</h3>
+<h2 align="left">📦 기술 스택</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
@@ -207,9 +215,11 @@ React로 구성된 프로젝트에서, Redux를 활용해 더미 데이터를 �
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=StyledComponents&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white">
 </div>
+<br></br>
 
-<h3 align="left">📦 배포</h3>
+<h2 align="left">📦 배포</h2>
 https://x-cover.netlify.app/
+<br></br>
 
 ### 🔗 바로 가기
 - [Github](https://github.com/LEEJUNGKWAN1/x-cover)
