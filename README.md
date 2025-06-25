@@ -135,6 +135,11 @@
   <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/adddel.gif?raw=true" alt="상품" />
 </p>
 
+<h3 align="center">🪄 AI 도우미</h3>
+<p align="center">
+  <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/ai.gif?raw=true" alt="AI" />
+</p>
+
 <h3 align="center">📲 반응형(PWA)</h3>
 <p align="center">
   <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true" alt="반응형" />
